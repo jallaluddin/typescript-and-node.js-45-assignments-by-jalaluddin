@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/node": "^22.0.2"
+  },
+  "name": "13-your-own-array",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
